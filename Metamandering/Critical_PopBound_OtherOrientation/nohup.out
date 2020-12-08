@@ -1,0 +1,10 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:3490354): Gdk-CRITICAL **: 15:41:27.184: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(main.py:3490354): Gdk-CRITICAL **: 15:41:27.185: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Traceback (most recent call last):
+  File "main.py", line 364, in <module>
+    exp_chain = MarkovChain(slow_reversible_propose_bi ,Validator([single_flip_contiguous, popbound#,boundary_condition
+NameError: name 'popbound' is not defined

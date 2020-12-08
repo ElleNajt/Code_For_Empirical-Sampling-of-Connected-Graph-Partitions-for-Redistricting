@@ -1,0 +1,102 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(variable_endpoints_SLE_experiments.py:3479186): Gdk-CRITICAL **: 12:03:50.398: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(variable_endpoints_SLE_experiments.py:3479186): Gdk-CRITICAL **: 12:03:50.399: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+running tests
+num_steps: 1000000
+r: 40
+501
+for r 40
+correct value 0.4999999999999991
+estimated probabiltiy [0.4530938123752495, 0.41916167664670656]
+num_steps: 10000000
+r: 40
+501
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(variable_endpoints_SLE_experiments.py:363554): Gdk-CRITICAL **: 23:14:35.839: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+running tests
+num_steps: 10000000
+r: 40
+501
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+

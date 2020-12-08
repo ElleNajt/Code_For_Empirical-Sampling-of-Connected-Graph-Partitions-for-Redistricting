@@ -1,0 +1,24 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(variable_endpoints_SLE_experiments.py:1730515): Gdk-CRITICAL **: 15:46:41.725: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(variable_endpoints_SLE_experiments.py:1730515): Gdk-CRITICAL **: 15:46:41.726: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+running tests
+num_steps: 1000000
+r: 50
+501
+for r 50
+correct value 0.4999999999999991
+estimated probabiltiy [0.35528942115768464, 0.3373253493013972]
+num_steps: 10000000
+r: 50
+501
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+

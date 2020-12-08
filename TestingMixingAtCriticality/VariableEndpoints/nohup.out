@@ -1,0 +1,211 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(variable_endpoints_SLE_experiments.py:2781393): Gdk-CRITICAL **: 19:13:43.518: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(variable_endpoints_SLE_experiments.py:2781393): Gdk-CRITICAL **: 19:13:43.519: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+running tests
+num_steps: 10000
+r: 10
+501
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 10
+correct value 0.4999999999999991
+estimated probabiltiy [0.4111776447105788, 0.3652694610778443]
+num_steps: 10000
+r: 20
+501
+for r 20
+correct value 0.4999999999999991
+estimated probabiltiy [0.20159680638722555, 0.19560878243512975]
+num_steps: 10000
+r: 30
+501
+for r 30
+correct value 0.4999999999999991
+estimated probabiltiy [0.11177644710578842, 0.09780439121756487]
+num_steps: 10000
+r: 40
+501
+for r 40
+correct value 0.4999999999999991
+estimated probabiltiy [0.05389221556886228, 0.05588822355289421]
+num_steps: 10000
+r: 50
+501
+for r 50
+correct value 0.4999999999999991
+estimated probabiltiy [0.03792415169660679, 0.021956087824351298]
+num_steps: 100000
+r: 10
+501
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 10
+correct value 0.4999999999999991
+estimated probabiltiy [0.4111776447105788, 0.405189620758483]
+num_steps: 100000
+r: 20
+501
+for r 20
+correct value 0.4999999999999991
+estimated probabiltiy [0.40119760479041916, 0.4471057884231537]
+num_steps: 100000
+r: 30
+501
+for r 30
+correct value 0.4999999999999991
+estimated probabiltiy [0.29141716566866266, 0.281437125748503]
+num_steps: 100000
+r: 40
+501
+for r 40
+correct value 0.4999999999999991
+estimated probabiltiy [0.1996007984031936, 0.2155688622754491]
+num_steps: 100000
+r: 50
+501
+for r 50
+correct value 0.4999999999999991
+estimated probabiltiy [0.14171656686626746, 0.16966067864271456]

@@ -1,0 +1,108 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(variable_endpoints_SLE_experiments.py:2829555): Gdk-CRITICAL **: 11:03:52.643: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(variable_endpoints_SLE_experiments.py:2829555): Gdk-CRITICAL **: 11:03:52.645: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+running tests
+num_steps: 10000000
+r: 20
+126
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 20
+correct value 0.4999999999999991
+estimated probabiltiy [0.42063492063492064, 0.5079365079365079]
+num_steps: 10000000
+r: 30
+126
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 30
+correct value 0.4999999999999991
+estimated probabiltiy [0.46825396825396826, 0.49206349206349204]
+num_steps: 10000000
+r: 40
+126
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 40
+correct value 0.4999999999999991
+estimated probabiltiy [0.5476190476190477, 0.5]
+num_steps: 100000000
+r: 20
+126

@@ -1,0 +1,89 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(variable_endpoints_SLE_experiments.py:3039958): Gdk-CRITICAL **: 23:58:53.146: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(variable_endpoints_SLE_experiments.py:3039958): Gdk-CRITICAL **: 23:58:53.147: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+running tests
+num_steps: 1000000
+r: 30
+126
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 30
+correct value 0.4999999999999991
+estimated probabiltiy [0.47619047619047616, 0.5158730158730159]
+num_steps: 1000000
+r: 40
+126
+for r 40
+correct value 0.4999999999999991
+estimated probabiltiy [0.40476190476190477, 0.42857142857142855]
+num_steps: 10000000
+r: 30
+126
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 30
+correct value 0.4999999999999991
+estimated probabiltiy [0.40476190476190477, 0.40476190476190477]
+num_steps: 10000000
+r: 40
+126
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+there was an error -- wrong size ends
+
+for r 40
+correct value 0.4999999999999991
+estimated probabiltiy [0.5634920634920635, 0.5079365079365079]

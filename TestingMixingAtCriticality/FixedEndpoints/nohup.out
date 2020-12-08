@@ -1,0 +1,13 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(SLEExperiments.py:2710483): Gdk-CRITICAL **: 21:38:48.155: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(SLEExperiments.py:2710483): Gdk-CRITICAL **: 21:38:48.156: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:607529): Gdk-CRITICAL **: 01:03:03.052: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+num_steps: 1000000
+r: 30
+501

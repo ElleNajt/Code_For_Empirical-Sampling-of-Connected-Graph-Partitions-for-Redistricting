@@ -1,0 +1,65 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(PhaseTransitionExperimentConfiguration.py:3125512): Gdk-CRITICAL **: 14:56:09.486: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+creating boundary plot,  1605480654.6881897
+finished boundary plot, doing garbage collection 1605488051.2453985
+drawing other plots 1605488052.342099
+finished drawing other plots,  1605488056.4648106
+creating boundary plot,  1605495692.0277042
+finished boundary plot, doing garbage collection 1605518019.4412544
+drawing other plots 1605518021.54693
+finished drawing other plots,  1605518025.5231671
+creating boundary plot,  1605525487.810186
+finished boundary plot, doing garbage collection 1605561701.7358086
+drawing other plots 1605561704.9349396
+finished drawing other plots,  1605561708.81622
+creating boundary plot,  1605568464.9662523
+finished boundary plot, doing garbage collection 1605618007.2817903
+drawing other plots 1605618011.4676561
+finished drawing other plots,  1605618015.9276173
+creating boundary plot,  1605625315.6908717
+finished boundary plot, doing garbage collection 1605687709.0820992
+drawing other plots 1605687714.1606858
+finished drawing other plots,  1605687718.099588
+creating boundary plot,  1605694273.9066093
+finished boundary plot, doing garbage collection 1605777950.7693672
+drawing other plots 1605777956.9365547
+finished drawing other plots,  1605777960.8918037
+creating boundary plot,  1605785087.0325007
+finished boundary plot, doing garbage collection 1605878234.3811388
+drawing other plots 1605878241.986016
+finished drawing other plots,  1605878245.9769523
+creating boundary plot,  1605885339.931257
+finished boundary plot, doing garbage collection 1605993241.2520247
+drawing other plots 1605993253.547664
+finished drawing other plots,  1605993257.5469325
+creating boundary plot,  1606000268.9470856
+finished boundary plot, doing garbage collection 1606121654.5744438
+drawing other plots 1606121667.632939
+finished drawing other plots,  1606121671.6429868
+creating boundary plot,  1606128624.608307
+finished boundary plot, doing garbage collection 1606269839.343757
+drawing other plots 1606269852.8665383
+finished drawing other plots,  1606269856.837563
+creating boundary plot,  1606276695.8299413
+finished boundary plot, doing garbage collection 1606429846.3038483
+drawing other plots 1606429859.5816185
+finished drawing other plots,  1606429863.4595935
+creating boundary plot,  1606436841.9912236
+finished boundary plot, doing garbage collection 1606611385.5876584
+drawing other plots 1606611399.0149624
+finished drawing other plots,  1606611402.9644186
+creating boundary plot,  1606618040.9911668
+finished boundary plot, doing garbage collection 1606815624.069716
+drawing other plots 1606815641.1650002
+finished drawing other plots,  1606815645.0591452
+creating boundary plot,  1606822939.0882864
+finished boundary plot, doing garbage collection 1607015987.3327365
+drawing other plots 1607016003.7855341
+finished drawing other plots,  1607016007.5921867
+creating boundary plot,  1607023026.2138102
+finished boundary plot, doing garbage collection 1607236464.7804334
+drawing other plots 1607236481.5746949
+finished drawing other plots,  1607236485.552816
+creating boundary plot,  1607244137.837063
